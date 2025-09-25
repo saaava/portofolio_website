@@ -1,2 +1,3 @@
 # portofolio_website
-Personal portfolio website with HTML, CSS, and JavaScript.
+Website portofolio sederhana menggunakan HTML, CSS (vanilla), dan JavaScript.  
+Website ini menampilkan beberapa section: Hero, About, Projects, serta Contact.
